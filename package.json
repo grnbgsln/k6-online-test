@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "module": "^1.2.5",
+    "supertest": "^6.2.4",
+    "write-json-file": "^5.0.0"
+  },
+  "type": "module"
+}
